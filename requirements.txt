@@ -1,3 +1,5 @@
 aiohttp
+azure-ai-textanalytics
+azure-core
 botbuilder-core
 botbuilder-integration-aiohttp
